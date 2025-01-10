@@ -61,25 +61,38 @@ Hello! I am **Pradyumn Vibhandik**, a Data Analyst and Machine Learning Enthusia
 
 ## 🌟 Key Projects
 
-### **Heart Attack Prediction**
+### Heart Attack Prediction
 - Developed ML models predicting heart attack risks with advanced algorithms like Logistic Regression, Random Forest, and Gradient Boosting.
 - Optimized model accuracy by up to 20%.
 
-### **Predicting Restaurant Ratings**
+### Predicting Restaurant Ratings
 - Built ML models for restaurant ratings prediction using features like customer preferences and operational strategies.
 - Achieved an MSE of 0.2094 and RMSE of 0.4576 using Random Forest.
 
-### **Automated Data Query and Retrieval System**
+### Automated Data Query and Retrieval System
 - Created a system using MongoDB, LangChain, and LlamaIndex for dynamic query generation and data retrieval.
 - Documented query outputs and test cases effectively.
 
-### **Market Basket Analysis**
+### Market Basket Analysis
 - Leveraged tools like PySpark and SparkSQL to uncover customer purchase insights.
 - Visualized results in Power BI to drive business decisions.
 
-### **Fraudulent Transaction Detection**
+### Fraudulent Transaction Detection
 - Designed a model using ML algorithms to detect fraudulent financial transactions.
 - Conducted in-depth EDA to identify critical patterns in transactional data.
+
+### Predicting CO2 Emissions from Vehicle Data
+- Preprocessed and cleaned vehicle dataset with features like engine size, fuel consumption, and vehicle type.
+- Conducted exploratory data analysis (EDA) to identify key predictors of CO2 emissions.
+- Built regression models (Linear Regression, Random Forest) achieving R² scores above 85%.
+- Provided insights into reducing CO2 emissions by optimizing engine size and fuel efficiency.
+
+### Customizable Content Summarization Tool Using Hugging Face
+- Developed a content summarization tool using Hugging Face's facebook/bart-large-cnn model.
+- Enabled customizable summary length, tone (formal/casual/neutral), and focus.
+- Fine-tuned models for domain-specific content (e.g., medical, legal).
+- Optimized for large datasets with batch processing and real-time summarization.
+- Deployed as a scalable cloud service for cross-domain summarization.
 
 ---
 
